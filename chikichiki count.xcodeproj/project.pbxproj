@@ -14,6 +14,7 @@
 		A1023F022273E84D006041A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1023F002273E84D006041A6 /* LaunchScreen.storyboard */; };
 		A1023F0D2273E84D006041A6 /* chikichiki_countTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1023F0C2273E84D006041A6 /* chikichiki_countTests.swift */; };
 		A1023F182273E84D006041A6 /* chikichiki_countUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1023F172273E84D006041A6 /* chikichiki_countUITests.swift */; };
+		A1757B1A22B45ACB0050E16A /* セブ島.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1757B1922B45ACA0050E16A /* セブ島.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A1023F132273E84D006041A6 /* chikichiki countUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "chikichiki countUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1023F172273E84D006041A6 /* chikichiki_countUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chikichiki_countUITests.swift; sourceTree = "<group>"; };
 		A1023F192273E84D006041A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1757B1922B45ACA0050E16A /* セブ島.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "セブ島.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		A1023EF62273E83F006041A6 /* chikichiki count */ = {
 			isa = PBXGroup;
 			children = (
+				A1757B1922B45ACA0050E16A /* セブ島.jpg */,
 				A1023EF72273E83F006041A6 /* AppDelegate.swift */,
 				A1023EF92273E83F006041A6 /* ViewController.swift */,
 				A1023EFB2273E83F006041A6 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				A1023F022273E84D006041A6 /* LaunchScreen.storyboard in Resources */,
 				A1023EFF2273E84D006041A6 /* Assets.xcassets in Resources */,
+				A1757B1A22B45ACB0050E16A /* セブ島.jpg in Resources */,
 				A1023EFD2273E83F006041A6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
