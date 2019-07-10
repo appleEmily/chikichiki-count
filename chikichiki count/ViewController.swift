@@ -10,13 +10,20 @@ import UIKit
 
 class ViewController: UIViewController {
 
-
+    var number: Int = 0
+    @IBOutlet weak var labrl: UILabel!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
+    @IBAction func plus(_ sender: Any) {
+        number = number + 1
+        labrl.text = String(number)
+    }
+    
 
 
 }
